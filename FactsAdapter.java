@@ -14,7 +14,7 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
-
+//Adapter for populating JSON object data
 public class FactsAdapter extends ArrayAdapter<Facts> {
 	ArrayList<Facts> factList;
 	LayoutInflater vi;
